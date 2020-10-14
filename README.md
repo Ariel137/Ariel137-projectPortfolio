@@ -16,7 +16,7 @@ Project Portfolio
 
 <h1>ABOUT ME</h1>
 
-<img src="Ariel.JPG" style="width:300px;height:250px">
+<img src="Ariel.jpg" style="width:300px;height:250px">
 
 <h2>Introduction</h2>
 
